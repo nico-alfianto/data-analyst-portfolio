@@ -1,51 +1,151 @@
-# Data Analyst Portfolio
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=200&section=header&text=Nico%20Alfianto&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20System%20Student%20%7C%20Data%20%26%20System%20Analyst%20Enthusiast&descAlignY=58" />
+</p>
 
-Hello I'm Nico Alfianto welcome to my Data Analyst Portfolio. This repository contains links to my data analysis projects completed using Python, Pandas, Matplotlib, Seaborn, and Google Colab.
+<div align="center">
 
----
+### 📊 Information System Student | Data & System Analyst Enthusiast
 
-## Projects
+Turning Coffee ☕ into Insights 📈
 
-### 1. Telco Customer Churn Analysis
-**Description:**  
-Analyzed customer churn patterns to identify key factors influencing customer retention and provided business recommendations to reduce churn.
+<br>
 
-**Repository:**  
-https://github.com/nico-alfianto/customer-churn-analysis
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
----
-
-### 2. Sales Performance Analysis
-**Description:**  
-Analyzed sales and profit performance across product categories and regions using the Superstore dataset to identify business growth opportunities.
-
-**Repository:**  
-https://github.com/nico-alfianto/sales-performance-analysis
-
----
-
-### 3. Customer Value Analysis (RFM & Predictive Modeling)
-**Description:**  
-Analyzed customer transaction behavior using RFM (Recency, Frequency, Monetary) analysis combined with logistic regression modeling to identify high-value customers and support targeted business strategies.
-
-**Repository:**  
-https://github.com/nico-alfianto/customer-value-analysis-rfm-logistic-regression
+</div>
 
 ---
 
-## Tools & Technologies
-- Python  
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Seaborn  
-- Scikit-learn  
-- Google Colab  
-- GitHub  
+## 👋 Hello, I'm Nico Alfianto
+
+Welcome to my Portfolio.
+
+I’m an Information System student and BNSP Database Administrator with a strong interest in data processing, system analysis, and database design. This repository contains links to my data & system analysis projects completed using **Python, SQL, Excel, Pandas, Matplotlib, Scikit-learn, and Google Colab**.
+
+I enjoy exploring data, designing efficient database structures, and transforming raw information into actionable insights for business & system improvement.
+
+> 📌 *"Every dataset and system has a story. My job is to find and design it."*
 
 ---
 
-## Contact
-- **GitHub:** https://github.com/nico-alfianto  
-- **Email:** alfiantonico9@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/nico-alfianto  
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nico-alfianto&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nico-alfianto&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📉 Telco Customer Churn Analysis
+
+**Description**
+
+Processed 7000+ customer data, performed data cleaning & EDA, and visualized churn factors using Matplotlib. Result: identified 3 key factors for customer retention strategy recommendations.
+
+🔗 Repository: [https://github.com/nico-alfianto/customer-churn-analysis](https://github.com/nico-alfianto/customer-churn-analysis)
+
+---
+
+### 💰 Sales Performance Analysis
+
+**Description**
+
+Analyzed sales and profit performance across product categories and regions using the Superstore dataset. Performed data aggregation to identify profitable segments and presented insights through visualizations to support business decisions.
+
+🔗 Repository: [https://github.com/nico-alfianto/sales-performance-analysis](https://github.com/nico-alfianto/sales-performance-analysis)
+
+---
+
+### 🎯 Customer Value Analysis (RFM & Predictive Modeling)
+
+**Description**
+
+Analyzed transaction behavior using RFM (Recency, Frequency, Monetary) analysis combined with logistic regression modeling for high-value customer segmentation and scoring. Output: customer classification to support targeted business & benefit strategies.
+
+🔗 Repository: [https://github.com/nico-alfianto/customer-value-analysis-rfm-logistic-regression](https://github.com/nico-alfianto/customer-value-analysis-rfm-logistic-regression)
+
+---
+
+### 🗄️ Database Design: Information System
+
+**Description**
+
+Designed a relational database structure for an information system based on SDLC principles. Ensured data integrity, query efficiency, and scalability for administrative data processing.
+
+Tools: ERD, MySQL, UML Diagram
+
+---
+
+## 🛠️ Tools & Technologies
+
+| Category                   | Tools                                     |
+| -------------------------- | ----------------------------------------- |
+| 🐍 Programming             | Python                                    |
+| 🗄️ Database               | SQL, MySQL, Database Design ERD           |
+| 📦 Data Manipulation       | Pandas, NumPy                             |
+| 📊 Data Visualization      | Matplotlib, Seaborn                       |
+| 🤖 Machine Learning        | Scikit-learn                              |
+| 📑 Business Tools          | Microsoft Excel (Advanced), Google Sheets |
+| ☁️ Development Environment | Google Colab                              |
+| 📐 System Analysis         | SDLC, UML Diagram                         |
+| 🌐 Version Control         | GitHub                                    |
+| 📈 BI Tools                | Familiar with Power BI                    |
+
+---
+
+## 📚 What You'll Find Here
+
+✅ Data Cleaning & Preparation  
+✅ Exploratory Data Analysis (EDA)  
+✅ Data Visualization & Storytelling  
+✅ Business-Oriented Insights  
+✅ Customer & System Analytics  
+✅ Predictive Modeling  
+✅ Database Design & ERD  
+✅ System Requirement Analysis
+
+---
+
+## 🎯 Current Focus
+
+📈 Advanced Data Analytics & Processing  
+🗄️ Database Administration & Optimization  
+🤖 Machine Learning for Business Cases  
+📊 Interactive Dashboards with Power BI  
+🧠 System Design & Business Intelligence
+
+---
+
+## 📬 Let's Connect
+
+💻 GitHub: [https://github.com/nico-alfianto](https://github.com/nico-alfianto)  
+💼 LinkedIn: [https://www.linkedin.com/in/nico-alfianto](https://www.linkedin.com/in/nico-alfianto)  
+📧 Email: [alfiantonico9@gmail.com](mailto:alfiantonico9@gmail.com)
+
+---
+
+<div align="center">
+
+## 🚀 Thanks for Visiting!
+
+### Turning Coffee ☕ into Insights & Efficient Systems 📊
+
+Feel free to explore my projects and connect with me.
+
+⭐ If you like what you see, don't forget to give a star!
+
+</div>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=120&section=footer" />
+</p>
